@@ -1,11 +1,11 @@
-# Preparing to become a Data Scientist: A Process Roadmap for Husky Students
+# Preparing to Land Your First Data Scientist Job: A Process Roadmap for Undergraduate Students
 
 ![Data Science Career Path Image](https://github.com/lvenna/process_301/blob/main/images/data_science_intro.jpg?raw=true)
 © Image from Cornell Bowers
 
 ---
 
-**Prepared for:** Husky student pursuing a job as a Data Scientist  
+**Prepared for:** Student pursuing a job as a Data Scientist  
 **Prepared by:** Lasya Venna  
 **Date:** January 23, 2026
 
@@ -30,11 +30,11 @@
 
 ## Purpose
 
-The purpose of this document is to guide you through the concrete steps, skills, and actions that increase your readiness for a Data Scientist role. This process explains what actions you take beyond required coursework, including strengthening your technical foundations, building your portfolio, gaining experience, and preparing for the hiring process. The goal is to give you a clear, actionable roadmap that shows what you do, why each step matters, and how each action contributes to you becoming job‑ready.
+The purpose of this document is to guide you through the **concrete steps, skills, and actions** that maximize your chances of landing your first Data Scientist job after graduation. You focus here on what to do beyond required coursework, including strengthening your technical foundations, building real experience through projects and roles, and preparing intentionally for the interview process. By the end, you have a clear, practical roadmap that shows what to prioritize and why each step makes you a more competitive candidate.
 
 ---
 
-## Figure 1: Preparation Roadmap
+## Figure 1: Preparation Timeline
 
 <img src="https://github.com/lvenna/process_301/blob/main/images/flowchart.png?raw=true" width="300">
 
@@ -48,25 +48,30 @@ This figure summarizes the full preparation process for becoming a Data Scientis
 
 ## Assessing Your Technical Readiness
 
-A good starting point is understanding what employers actually expect from Data Scientist candidates. Looking through job descriptions helps you see which skills show up repeatedly, usually Python, SQL, statistics, and machine learning. When you compare these expectations to your current abilities, you get a clearer sense of where you’re already strong and where you might want to focus your learning. 
+You start by regularly reviewing entry-level Data Scientist job descriptions on sites like [Indeed](https://www.indeed.com), [LinkedIn](https://www.linkedin.com), or company career pages of companies you're interested in. As you scan multiple postings, you typically see the same core skills repeated, especially **Python, SQL, statistics, and machine learning**, and compare those expectations to your current abilities so you get a clearer sense of where you’re already strong and where you should focus your learning. 
 
-This step also keeps you from wasting time on skills that are irrelevant. For example, if you notice that most roles emphasize SQL but rarely mention R, you can prioritize accordingly. Over time, checking job descriptions every few months helps you stay aligned with industry trends and gives you a sense of how your skills are growing. 
+This step also keeps you from wasting time on skills that are less relevant. For example, if you notice that most roles emphasize SQL but rarely mention R, you can prioritize accordingly. Over time, checking job descriptions every few months helps you stay aligned with industry trends and gives you a sense of how your skills are growing. 
 
 ---
 
 ## Strengthening Core Languages
 
-Once you know what skills matter most, the next step is building a strong foundation in the core languages used in data science. Python and SQL are essential for almost every part of the workflow: from cleaning data to building models. Becoming comfortable with them makes everything else easier.
+You strengthen your skills in the **core languages** used in data science, especially Python and SQL. Python dominates many data science workflows because of its libraries for data manipulation and machine learning, while SQL shows up in job postings as a standard way to access and query data stored in databases.
 
-Practicing regularly is key. Working through coding challenges, experimenting with libraries like pandas or scikit‑learn, and building small scripts all help you get more comfortable with the tools you’ll use on the job. These habits also prepare you for technical interviews, where you’ll often be asked to write queries or solve coding problems on the spot. 
+Practicing regularly is key. You strengthen your skills by:
+- Working through coding challenges that focus on data manipulation and queries on platforms like [LeetCode](https://leetcode.com/problemset/) and [HackerRank](https://www.hackerrank.com/domains/sql) so you get used to working under light time pressure.
+- Following the official tutorials for libraries like [`pandas`](https://pandas.pydata.org/docs/) and [scikit‑learn](https://scikit-learn.org/stable/) to practice cleaning data and training basic models on sample datasets.
+- Writing short scripts that automate something specific in your life, such as cleaning a CSV of your class schedule, summarizing expenses, or analyzing a public dataset from [Kaggle](https://www.kaggle.com).
+
+These habits also prepare you for technical interviews, where you’ll often be asked to write SQL queries or Python code on the spot to solve small but realistic problems. 
 
 ---
 
 ## Creating Full Data Pipelines
 
-Building end‑to‑end projects is one of the best ways to show that you can apply your skills to real problems. These projects usually involve collecting data, cleaning it, analyzing it, building models, and visualizing your results. Working through each stage helps you understand how data flows through a system and how your decisions affect the final outcome. 
+You build **end‑to‑end projects** that take a dataset from collection through cleaning, analysis, modeling, and visualization. Working through each stage helps you understand how data flows through a system and how your decisions at each stage affect the final outcome. 
 
-These projects also help you develop your problem‑solving skills. Employers want candidates who can take a messy, open‑ended problem and turn it into a structured solution. When you build projects that reflect real‑world challenges like predicting trends or analyzing customer behavior, you show that you can think like a Data Scientist. 
+These projects also help you develop your problem‑solving skills and are often the most convincing way to demonstrate job‑ready ability to employers, because they show how you handle every stage of the workflow instead of just isolated exercises. When you build projects that reflect real‑world challenges, such as predicting trends, segmenting users, or analyzing customer behavior, you show that you can think like a Data Scientist and communicate your findings clearly in a portfolio or on [GitHub](https://github.com). Looking at example project write‑ups on GitHub repositories or portfolio blogs helps you see how other candidates document their end‑to‑end work.
 
 ---
 
@@ -74,17 +79,27 @@ These projects also help you develop your problem‑solving skills. Employers wa
 
 ## Applying Skills in Real Environments
 
-Hands‑on experience is one of the most valuable parts of your preparation. Internships, research roles, volunteer analytics work, and campus projects all give you opportunities to apply your skills in real situations. These experiences help you learn how to collaborate, communicate, and adapt.
+You build experience by applying your data skills in real situations, such as internships, research roles, volunteer analytics work, or campus projects. These experiences help you learn how to collaborate with others, communicate technical results, and adapt when requirements change [4].
 
-If you can’t get an internship right away, don’t worry. There are plenty of other ways to build experience. Joining student clubs, contributing to open‑source projects, or helping professors with research can all help you grow your skills and show initiative. These experiences also help you build a network. Connecting with peers, mentors, and professionals can lead to future opportunities and give you insight into what different data roles look like in practice.
+If you can’t get an internship right away, you still build experience by:
+- Joining student clubs that work with data or analytics (for example, a campus data science or analytics club if your school has one).
+- Contributing to open‑source projects that use Python, SQL, or machine learning: you start by fixing documentation issues or beginner‑friendly bugs labeled “good first issue.”
+- Emailing professors or research groups whose projects mention data, statistics, or machine learning on your department website and asking whether they need help with data cleaning, basic analysis, or visualization.
+
+These experiences also help you build a **network**. Connecting with peers, mentors, and professionals can lead to future opportunities and give you insight into what different data roles look like in practice.
 
 ---
 
 ## Maintaining a Strong LinkedIn Profile
 
-Your online presence plays a big role in how employers see you. Keeping your LinkedIn profile updated with your projects, skills, and accomplishments helps you present yourself as someone who’s active and engaged in the field. Recruiters often use LinkedIn to find candidates, so a strong profile increases your chances of being noticed. 
+Your online presence plays a big role in how employers see you. Keeping your [LinkedIn](https://www.linkedin.com) profile updated with your projects, skills, and accomplishments helps you present yourself as someone who’s active and engaged in the field. You can look at profiles of early‑career Data Scientists and strong student profiles featured in articles or posts about LinkedIn optimization to see concrete examples of how they describe their projects and highlight impact. You use those examples to model your own About section, project descriptions, and headline so they clearly show what you’ve done and what roles you’re targeting. Recruiters often use LinkedIn to search for candidates, so a strong profile increases your chances of being noticed. 
 
-Engaging with the data science community can also help you grow. Sharing your projects, commenting on posts, and connecting with professionals shows that you’re curious and involved. These interactions can lead to new opportunities and help you stay informed about industry trends. 
+Engaging with the data science community can also help you grow. You can:
+- Share posts about your projects or what you're learning.
+- Comment thoughtfully on articles or posts related to data science.
+- Connect with professionals you meet at events, talks, or online.
+
+These interactions show that you're curious and involved, and they can lead to new opportunities or informational interviews that clarify what different data science paths look like.
 
 ---
 
@@ -92,19 +107,28 @@ Engaging with the data science community can also help you grow. Sharing your pr
 
 ## Practicing Technical Interviews
 
-Technical interviews can feel intimidating at first, but practicing regularly makes a big difference. Working through SQL problems, Python challenges, and machine‑learning questions helps you get comfortable with the types of tasks you’ll see during interviews. Over time, you’ll get better at explaining your thought process and solving problems under pressure. 
+Technical interviews can feel intimidating at first, but **consistent practice** makes a big difference. You set up a regular practice routine for technical interviews that focuses on SQL problems, Python challenges, and machine‑learning questions, using platforms like [LeetCode](https://leetcode.com/problemset/) and [HackerRank](https://www.hackerrank.com/domains/sql) or curated “SQL 50” and data‑science interview problem sets. This helps you get comfortable with the types of tasks you’ll see during interviews and improves how you explain your thought process and solve problems under pressure instead of just coding silently [4].
 
-Interviews also test your understanding of core concepts. You might be asked about model evaluation, feature engineering, or data preprocessing, so reviewing these topics helps you feel more prepared. Practicing with friends, mentors, or online platforms can help you build confidence and improve your communication skills. These skills will help you not only during interviews but throughout your career.
+Interviews also test your understanding of core concepts. You might be asked about:
+- How you evaluate a model and choose metrics.
+- How you handle missing data, outliers, or feature scaling.
+- How you would design features for a specific problem.
+
+Reviewing these topics, practicing with friends or online platforms, and doing mock interviews helps you build confidence. These communication skills—clearly stating assumptions, walking through your reasoning, and reflecting on trade-offs—will help you not only during interviews but throughout your career.
 
 ---
 
 # Conclusion
-If you follow these steps consistently, you build a strong foundation that prepares you for both internships and full‑time Data Scientist roles. If you identify your gaps early, then you can focus your learning efficiently. If you create and document meaningful projects, then you show employers exactly what you can do. If you strengthen your professional presence and practice interviews, then you position yourself as a competitive, well‑prepared candidate. This process gives you a clear path forward and helps you take control of your career development.
+If you follow these steps consistently, you build a strong foundation that prepares you for both internships and full‑time Data Scientist roles. When you identify your gaps early, you can focus your learning efficiently instead of spreading yourself too thin. When you create and document meaningful projects and experiences, you show employers exactly what you can do. When you strengthen your professional presence and practice interviews, you position yourself as a competitive, well‑prepared candidate with a clear roadmap for landing your first Data Scientist job.
 
 ---
 
 # References
-[1] “Data Scientist Job Description | Indeed,” Indeed.com, 2023. https://uk.indeed.com/hire/job-description/data-scientist.  
-[2] U.S. Bureau of Labor Statistics, “Data Scientists,” www.bls.gov, Aug. 29, 2024. https://www.bls.gov/ooh/math/data-scientists.htm.  
-[3] “Career Services,” Career Services, Aug. 08, 2024. https://www.uwb.edu/career-services/resources/interviews/technical-interviews (accessed Jan. 23, 2026).  
-[4] Jacobsen, Zaylan. Personal interview, 15 Jan., 2025.
+
+[1] “Data Scientist Job Description | Indeed,” Indeed.com, 2023. Available: https://uk.indeed.com/hire/job-description/data-scientist. Accessed: Jan. 23, 2026.
+
+[2] U.S. Bureau of Labor Statistics, “Data Scientists,” www.bls.gov, Aug. 29, 2024. Available: https://www.bls.gov/ooh/math/data-scientists.htm. Accessed: Jan. 23, 2026.
+
+[3] “Technical Interviews,” *University of Washington Bothell Career Services*, Aug. 08, 2024. Available: https://www.uwb.edu/career-services/resources/interviews/technical-interviews. Accessed: Jan. 23, 2026.
+
+[4] Jacobsen, Zaylan. Personal interview, Jan. 15, 2025.
