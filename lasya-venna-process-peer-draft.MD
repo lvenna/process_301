@@ -13,7 +13,7 @@
 
 ## Table of Contents 
 - [Purpose](#purpose) 
-- [Figure 1: Preparation Roadmap](#figure-1-preparation-roadmap) 
+- [Figure 1: Preparation Timeline](#figure-1-preparation-timeline) 
 - [Building Your Technical Foundation](#building-your-technical-foundation) 
     - [Assessing Your Technical Readiness](#assessing-your-technical-readiness) 
     - [Strengthening Core Languages](#strengthening-core-languages) 
@@ -36,11 +36,11 @@ The purpose of this document is to guide you through the **concrete steps, skill
 
 ## Figure 1: Preparation Timeline
 
-<img src="https://github.com/lvenna/process_301/blob/main/images/flowchart.png?raw=true" width="300">
+<img src="https://github.com/lvenna/process_301/blob/main/images/data%20science%20timeline.png?raw=true" width="600">
 
 © Image from Lasya Venna
 
-This figure summarizes the full preparation process for becoming a Data Scientist. The flowchart walks through the entire Best Practices section with a single visual so you can understand the overall flow before reading the detailed steps.
+Figure 1 shows how you can spread your preparation over several years instead of treating the steps as a strict checklist. In the early semesters, you focus on understanding job expectations and starting core languages; in the middle, you deepen your skills through projects and campus experiences; and in the later semesters, you emphasize real‑world roles, LinkedIn, and technical interviews so that your technical skills and professional presence are aligned by the time you apply for Data Scientist roles.
 
 ---
 
