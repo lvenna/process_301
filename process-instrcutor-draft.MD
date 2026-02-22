@@ -1,6 +1,6 @@
 # Preparing to become a Data Scientist: A Process Roadmap for Husky Students
 
-![Data Science Career Path Image](data_science_intro.jpg)
+![Data Science Career Path Image](https://github.com/lvenna/process_301/blob/main/images/data_science_intro.jpg?raw=true)
 © Image from Cornell Bowers
 
 ---
@@ -36,7 +36,7 @@ The purpose of this document is to guide you through the concrete steps, skills,
 
 ## Figure 1: Preparation Roadmap
 
-<img src="flowchart.png" width="300">
+<img src="https://github.com/lvenna/process_301/blob/main/images/flowchart.png?raw=true" width="300">
 
 © Image from Lasya Venna
 
